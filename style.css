@@ -1,0 +1,14 @@
+/* * 
+{
+  margin: 0;
+  padding: 0px;
+} */
+
+
+.code_php {
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 2px solid #000080;
+    border-radius: 9px;
+}
